@@ -1,3 +1,4 @@
+// YE KHUD KIA HAI.....
 function check() {
     let x = document.getElementById("blood_group").value;
     let result = "";
